@@ -1,3 +1,5 @@
+require 'net/http'
+
 module DynamicSitemaps
   class Pinger
     class << self
